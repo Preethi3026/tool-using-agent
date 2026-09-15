@@ -1,0 +1,15 @@
+Our company provides customer support from Monday to Friday.
+
+Customer support hours are 9:00 AM to 5:00 PM.
+
+Customers can contact support by email or phone.
+
+Berlin and Munich are two of the company's major customer locations.
+
+Customer data is stored in a SQLite database.
+
+The company uses an AI agent that can answer questions using a database, external APIs, and a knowledge base.
+
+The AI agent should not invent information when the available tools do not provide an answer.
+
+Tool failures should be reported clearly rather than hidden from the user.
